@@ -13,7 +13,7 @@ export default function Reviews({ id }) {
   return (
     <section
       id={id}
-      className="h-screen flex items-center justify-center px-4 snap-start overflow-auto"
+      className="min-h-screen h-full flex items-center justify-center px-4 snap-start overflow-auto"
       style={{
         background: 'linear-gradient(135deg, #e8e7e9 0%, #e8e7e9 100%)',
       }}

@@ -2,7 +2,7 @@ export default function Footer({ id }) {
   return (
     <footer
       id={id}
-      className="h-screen flex items-center justify-center px-4 snap-start"
+      className="min-h-screen h-full flex items-center justify-center px-4 snap-start"
       style={{ backgroundColor: '#2c1a19', color: '#e8e7e9' }}
     >
       <div className="w-full max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-8 bg-[#2c1a19] p-6 md:p-10 rounded-2xl shadow-lg ">

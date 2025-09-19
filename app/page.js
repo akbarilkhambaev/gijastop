@@ -10,8 +10,6 @@ import HowItWorks from '@/components/HowItWorks';
 import Reviews from '@/components/Reviews';
 import Instructions from '@/components/Instructions';
 import Certificates from '@/components/Certificates';
-import Faq from '@/components/Faq';
-import Price from '@/components/Price';
 import Footer from '@/components/Footer';
 import SectionNav from '@/components/SectionNav';
 

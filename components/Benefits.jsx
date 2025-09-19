@@ -4,7 +4,7 @@ export default function Benefits({ id }) {
   return (
     <section
       id={id}
-      className="h-screen flex items-center justify-center px-4 snap-start"
+      className="min-h-screen h-full flex items-center justify-center px-4 snap-start"
       style={{ backgroundColor: '#e8e7e9' }}
     >
       <div className="max-w-7xl mx-auto">

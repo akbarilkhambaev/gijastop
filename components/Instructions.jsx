@@ -3,7 +3,7 @@ export default function Instructions({ id }) {
   return (
     <section
       id={id}
-      className="h-screen flex items-center justify-center px-4 snap-start overflow-hidden relative"
+      className="min-h-screen h-full flex items-center justify-center px-4 snap-start overflow-hidden relative"
       style={{ backgroundColor: '#e8e7e9', position: 'relative' }}
     >
       {/* Фоновое изображение */}

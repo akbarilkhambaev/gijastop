@@ -6,7 +6,7 @@ export default function Hero({ id }) {
   return (
     <section
       id={id}
-      className="h-screen flex items-center justify-center px-4 snap-start"
+      className="min-h-screen h-full flex items-center justify-center px-4 snap-start"
       style={{
         background: 'linear-gradient(135deg, #cb425c 0%, #2c1a19 100%)',
       }}

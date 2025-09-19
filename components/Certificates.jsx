@@ -149,7 +149,7 @@ export default function Certificates({ id }) {
   return (
     <section
       id={id}
-      className="min-h-screen flex items-center justify-center px-4 py-8 snap-start overflow-auto"
+      className="min-h-screen h-full flex items-center justify-center px-4 py-8 snap-start overflow-auto"
       style={{ backgroundColor: '#e8e7e9' }}
     >
       <div className="w-full max-w-4xl mx-auto">
